@@ -6,7 +6,7 @@ export default defineConfig({
   build: {
     outDir: './dist',
   },
-  base: '/kickbase-analysis',
+  base: '/kickbase-analysis24-25',
   plugins: [react()],
   resolve: {
     alias: {
