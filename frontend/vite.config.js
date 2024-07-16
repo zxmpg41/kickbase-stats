@@ -4,7 +4,7 @@ import path from 'path'
 
 export default defineConfig({
   build: {
-    outDir: './build',
+    outDir: './dist',
   },
   base: '/kickbase-analysis',
   plugins: [react()],
