@@ -1,7 +1,7 @@
 {
-  "name": "kickbase-analysis",
+  "name": "kickbase-stats",
   "version": "0.1.0",
-  "homepage": "/kickbase-analysis",
+  "homepage": "/kickbase-stats",
   "private": true,
   "type": "module",
   "dependencies": {
